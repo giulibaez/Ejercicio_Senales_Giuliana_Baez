@@ -10,4 +10,5 @@ func generate_block() :
 	add_child(instance)
 	
 func delete():
-	queue_free()
+	for child in get_children():
+		child.queue_free()
