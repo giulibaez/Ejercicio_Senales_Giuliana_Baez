@@ -9,3 +9,5 @@ func generate_block() :
 	var instance = block_scene.instantiate()
 	add_child(instance)
 	
+func delete():
+	queue_free()
