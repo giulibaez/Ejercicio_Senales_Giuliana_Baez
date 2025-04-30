@@ -2,3 +2,4 @@ res://scenes/Buttons/RedGenerator/red_generator.gd
 res://scenes/Buttons/VioletGenerator/violet_generator.gd
 res://scenes/Menu/Menu.tscn
 res://scenes/Buttons/Reset/reset.gd
+res://scenes/Menu/Menu.gd
